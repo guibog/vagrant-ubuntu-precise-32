@@ -2,7 +2,7 @@
 
 This script has been ported to Ubuntu 12.04. It will: 
 
- 1. download the Ubuntu 12.04 alternate server (torrent), 64bit iso
+ 1. download the Ubuntu 12.04 alternate server (torrent), 32bit iso
  2. ... do some magic to turn it into a vagrant box file
  3. output package.box 
 
