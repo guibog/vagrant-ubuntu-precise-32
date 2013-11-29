@@ -15,7 +15,7 @@ set -o errexit
 
 # Configurations
 BOX="ubuntu-precise-32"
-BASE_NAME="ubuntu-12.04-alternate-i386.iso"
+BASE_NAME="ubuntu-12.04.3-alternate-i386.iso"
 ISO_URL="http://releases.ubuntu.com/precise/$BASE_NAME.torrent"
 ISO_MD5="bcee4c03b704a9b62988505b7d8f3069"
 
